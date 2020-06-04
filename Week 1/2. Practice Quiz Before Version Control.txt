@@ -8,7 +8,7 @@ Q 3) The _____ commandhighlights the words that changed in a file instead of wor
 Ans) vimdiff
 
 Q 4) How can we choose the return value our script returns when it finishes?
-Ans) sys command from exit module
+Ans) Using the sys command from exit module
 
 Q 5) In addition to the original files, what else do we need before we can use the patch command?
 Ans) diff file
