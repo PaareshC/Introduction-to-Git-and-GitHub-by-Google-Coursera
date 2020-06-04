@@ -1,0 +1,16 @@
+Q 1) How can a VCS (Version Control System) come in handy when updating your software, even if you’re a solo programmer? Check all that apply.
+Ans) -Git retains local copies of repositories
+     -If something breaks due to change, you can fix problem by reverting to a working version before the change
+     -Git allows you to review the history of your project 
+
+Q 2) Who is the original creator and main developer of the VCS (Version Control System) tool Git?
+Ans) Linus Torvaldo
+
+Q 3) _____ is a feature of a software management system that records changes to a file or set of files over time so that you can recall specific versions later.
+Ans) Version Control 
+
+Q 4) A _____ is a collection of edits which has been submitted to the version control system for safe keeping.
+Ans) Commit 
+
+Q 5) Within a VCS, project files are organized in centralized locations called _____ where they can be called upon later.
+Ans) Repositories
