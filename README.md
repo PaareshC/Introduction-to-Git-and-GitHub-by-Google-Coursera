@@ -1,2 +1,2 @@
-# Introduction-to-Git-and-GitHub-by-Google-Coursera-
+# Introduction-to-Git-and-GitHub-by-Google-Coursera
 Solutions
