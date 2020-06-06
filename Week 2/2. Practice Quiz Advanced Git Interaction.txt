@@ -1,0 +1,14 @@
+Q 1) Which of the following commands is NOT an example of a method for comparing or reviewing the changes made to a file?
+Ans: git mv
+
+Q 2) What is the gitignore file?
+Ans: A file contiaining a list of files or filnames patterns for Git to skip for current repo.
+
+Q 3) What kind of file will the command git commit -a not commit?
+Ans: New files
+
+Q 4) What does HEAD represent in Git?
+Ans: The currently checked out snapshot of your project
+
+Q 5) If we want to show some stats about the changes in a commit, like which files were changed and how many lines were added or removed, what flag should we add to git log?
+Ans: --stat
