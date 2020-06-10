@@ -1,0 +1,19 @@
+Q 1) When we merge two branches, one of two algorithms is used. If the branches have diverged, which algorithm is used?
+Ans: three-way merge
+
+Q 2) The following code snippet represents the result of a merge conflict. Edit the code to fix the conflict and keep the version represented by the current branch.
+Ans: print("Keep me!")
+
+Q 3) What command would we use to throw away a merge, and start over? 
+Ans: git merge --abort	
+
+Q 4) How do we display a summarized view of the commit history for a repo, showing one line per commit? 
+Ans: git log --graph --oneline
+
+Q 5) The following script contains the result of a merge conflict. Edit the code to fix the conflict, so that both versions are included.
+Ans: def main():
+    print("Start of program>>>>>>>")
+    print("End of program!")
+
+
+main()
