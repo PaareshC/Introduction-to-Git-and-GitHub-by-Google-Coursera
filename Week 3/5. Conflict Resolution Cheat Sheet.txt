@@ -1,0 +1,6 @@
+Merge conflicts are not uncommon when working in a team of developers, or on Open Source Software. Fortunately, GitHub has some good documentation on how to handle them when they happen
+
+    httpshelp.github.comengithubcollaborating-with-issues-and-pull-requestsabout-merge-conflicts
+    httpshelp.github.comengithubcollaborating-with-issues-and-pull-requestsresolving-a-merge-conflict-using-the-command-line
+
+You can also use git rebase branchname to change the base of the current branch to be branchname
