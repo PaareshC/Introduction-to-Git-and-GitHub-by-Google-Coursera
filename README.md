@@ -1,4 +1,4 @@
 # Ultimate Git Cheat Sheet
 
-Remember:
+Remember :
 > The only way to master Git is through Practice   
