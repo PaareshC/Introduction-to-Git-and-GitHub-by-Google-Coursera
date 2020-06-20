@@ -5,4 +5,4 @@ Remember :
 
 * **Configuring you Git**
   * git config --global user.name "Username"
-  * $ git config --global user.email "email@example.com"
+  * $ git config --global user.email "Email"
