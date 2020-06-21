@@ -4,8 +4,7 @@
 Remember :
 > The only way to master Git is through Practice   
 
-## Configuring you Git      
-
+## Configuring you Git 
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
@@ -36,5 +35,14 @@ Remember :
 | $ git add -p | Allows a user to interactively review patches to add to the current commit |
 | $ git mv | Moves a file |
 | $ git rm | Removes a file |
+	
+
+## Reverting Changes 
+
+| Syntax | Description |                        
+| :--- | :--- |                                                                                
+| $ git reset | Resets the repo, throwing away some changes |          
+| $ git commit --amend |  Make changes to commits |             
+| $ git revert  | New commit which effectively rolls back a previous commit |
 
 
