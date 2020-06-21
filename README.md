@@ -1,5 +1,5 @@
 # Ultimate Git Cheat Sheet
-==================================                                             
+=========================================================================================================                                             
 Remember :
 > The only way to master Git is through Practice   
 
@@ -13,7 +13,7 @@ Remember :
 | $ git config --global color.ui auto | Colorization of command line output |                                 
 
 	
-* **Creating Repository**
+ **Creating Repository**
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
