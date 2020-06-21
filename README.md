@@ -3,7 +3,7 @@
 Remember :
 > The only way to master Git is through Practice   
 
-##Configuring you Git      
+## Configuring you Git      
 
 
 | Syntax | Description |                        
@@ -13,7 +13,7 @@ Remember :
 | $ git config --global color.ui auto | Colorization of command line output |                                 
 
 	
- ##Creating Repository
+ ## Creating Repository
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
