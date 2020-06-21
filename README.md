@@ -14,5 +14,8 @@ Remember :
 
 	
 * **Creating Repository**
-	* $ git init : Turn an existing directory into a git repository
-	* $ git clone [url] : Clone a repository that already exists on GitHub
+
+| Syntax | Description |                        
+| :--- | :--- |                                                                                
+| * $ git init | Turn an existing directory into a git repository |          
+| $ git clone [url] | Clone a repository that already exists on GitHub |              
