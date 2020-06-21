@@ -1,5 +1,5 @@
 # Ultimate Git Cheat Sheet
-=========================================================================================================                                             
+==================================================================================                                             
 Remember :
 > The only way to master Git is through Practice   
 
@@ -17,5 +17,5 @@ Remember :
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
-| * $ git init | Turn an existing directory into a git repository |          
+| $ git init | Turn an existing directory into a git repository |          
 | $ git clone [url] | Clone a repository that already exists on GitHub |              
