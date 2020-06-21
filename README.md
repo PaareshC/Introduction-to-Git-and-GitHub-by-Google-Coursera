@@ -46,3 +46,16 @@ Remember :
 | $ git revert  | New commit which effectively rolls back a previous commit |
 
 
+ ## Branches
+
+| Syntax | Description |                        
+| :--- | :--- |                                                                                
+| $ git branch | Used to manage branches |          
+| $ git branch <name> | Creates the branch | 
+| $ git branch -d <name> | Deletes the branch |
+| $ git branch -D <name> | Forcibly deletes the branch |
+| $ git checkout <branch> | Switches to a branch |
+| $ git checkout -b <branch> | Creates a new branch and switches to it |
+| $ git merge <branch> | Merge joins branches together |
+| $ git merge --abort | abort the merge action (In case of merge conflict) |
+| $ git log --graph --oneline | This shows a summarized view of the commit history for a repo |
