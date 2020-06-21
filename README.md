@@ -18,4 +18,22 @@ Remember :
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
 | $ git init | Turn an existing directory into a git repository |          
-| $ git clone [url] | Clone a repository that already exists on GitHub |              
+| $ git clone [url] | Clone a repository that already exists on GitHub |             
+
+
+ ## Operations on Files
+
+| Syntax | Description |                        
+| :--- | :--- |                                                                                
+| $ git add <filename> | Adds a file to Staging area |          
+| $ git add * | Adds all files to Staging area | 
+| $ git commit -a | Stages files automatically |
+| $ git log -p | Produces patch text |
+| $ git show | Shows various objects |
+| $ git diff | Can show the differences in various commits |
+| $ git diff --staged | Show all staged files compared to the named commit |
+| $ git add -p | Allows a user to interactively review patches to add to the current commit |
+| $ git mv | Moves a file |
+| $ git rm | Removes a file |
+
+
