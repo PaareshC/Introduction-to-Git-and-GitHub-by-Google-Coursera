@@ -1,0 +1,14 @@
+Q 1) How do we reference issues in our commits with automatic links?
+Ans : By using one of the keywords followed by a hashtag and the issue number
+
+Q 2) What is an artifact in terms of continuous integration/continuous delivery (CI/CD) pipelines?
+Ans : Any file generated as part of CI/CD pipeline
+
+Q 3) Which of the following statements are good advice for project maintainers? (Check all that apply)
+Ans : a.Reply promptly to pull requests
+
+Q 4) Which statement best represents what a Continuous Integration system will do?
+Ans : Run tests automatically
+
+Q 5) Which statement best represents what a Continuous Delivery (CD) system will do?
+Ans : Update with incremental rollouts
