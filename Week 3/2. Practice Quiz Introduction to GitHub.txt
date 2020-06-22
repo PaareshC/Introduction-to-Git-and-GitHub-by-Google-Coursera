@@ -1,0 +1,11 @@
+Q 1) When we want to update our local repository to reflect changes made in the remote repository, which command would we use?
+Ans : git pull
+
+Q 2) git config --global credential.helper cache allows us to configure the credential helper, which is used for ...what?
+Ans : Allowing Automated Login to GitHub
+
+Q 3) Name two ways to avoid having to enter our password when retrieving and when pushing changes to the repo. 
+Ans : Use Credential Helper or use SSH key-pair
+
+Q 4) Name the command that gathers all the snapshots we've taken and sends them to the remote repository.
+Ans : git push
