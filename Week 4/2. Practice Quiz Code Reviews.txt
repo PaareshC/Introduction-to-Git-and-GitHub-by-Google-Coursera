@@ -1,0 +1,18 @@
+Q 1) When should we respond to comments from collaborators and reviewers?
+Ans : Always
+
+Q 2) What is a nit?
+Ans : A trivial comment or suggestion
+
+Q 3) Select common code issues that might be addressed in a code review. (Check all that apply)
+Ans : a.Using unclear names
+      b.Forgetting to add tests
+      c.Forgetting to handle a specific condition 
+
+Q 4) If we've pushed a new version since we've made a recent change, what might our comment be flagged as?
+Ans : Outdated
+
+Q 5) What are the goals of code review? (Check all that apply)
+Ans : a.Make sure that contents are easy to understand
+      b.Ensure consistent styles
+      c.Ensure we don't forget any important cases
