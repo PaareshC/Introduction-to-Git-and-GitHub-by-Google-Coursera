@@ -1,5 +1,5 @@
 # Ultimate Git Cheat Sheet , Author : PaareshC 
-==================================================================================
+===========================================================
 
 Remember :
 > The only way to master Git is through Practice   
