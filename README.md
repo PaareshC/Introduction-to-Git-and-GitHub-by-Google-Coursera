@@ -60,9 +60,11 @@ Remember :
 | $ git merge --abort | abort the merge action (In case of merge conflict) |
 | $ git log --graph --oneline | This shows a summarized view of the commit history for a repo |
 	
-	
+
+## Interaction with Remote Repository
+
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
-| $ git config --global user.name "Username" | Sets the name you want attached to your commit transactions |          
-| $ git config --global user.email "Email" | Sets the email you want attached to your commit transactions |             
-| $ git config --global color.ui auto | Colorization of command line output |
+| $ git push | Git push is used to push commits from your local repo to a remote repo |          
+| $ git pull | Git pull is used to fetch the newest updates from a remote repository |  
+
