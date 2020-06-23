@@ -76,7 +76,7 @@ Remember :
 | $ git remote | Lists remote repos |          
 | $ git remote -v | List remote repos verbosely | 
 | $ git remote show <name> | Describes a single remote repo |
-| $ git log -p | Produces patch text |
+| $ git remote update | Fetches the most up-to-date objects |
 | $ git fetch | Downloads specific objects |
 | $ git branch -r | Lists remote branches; can be combined with other branch arguments to manage remote branches |
 	
