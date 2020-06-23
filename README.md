@@ -59,3 +59,10 @@ Remember :
 | $ git merge <branch> | Merge joins branches together |
 | $ git merge --abort | abort the merge action (In case of merge conflict) |
 | $ git log --graph --oneline | This shows a summarized view of the commit history for a repo |
+	
+	
+| Syntax | Description |                        
+| :--- | :--- |                                                                                
+| $ git config --global user.name "Username" | Sets the name you want attached to your commit transactions |          
+| $ git config --global user.email "Email" | Sets the email you want attached to your commit transactions |             
+| $ git config --global color.ui auto | Colorization of command line output |
