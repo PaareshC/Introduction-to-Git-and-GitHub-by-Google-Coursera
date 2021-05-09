@@ -5,7 +5,7 @@ Q 2) You're helping a friend with a bug in a script called fix_permissions.py, w
 Ans) diff fix_permissions.py fix_permissions_modified.py > fix_permissions.patch
 
 Q 3) The _____ commandhighlights the words that changed in a file instead of working line by line.
-Ans) vimdiff
+Ans) wdiff
 
 Q 4) How can we choose the return value our script returns when it finishes?
 Ans) Using the sys command from exit module
